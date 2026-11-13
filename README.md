@@ -6,7 +6,7 @@ This project focuses on analyzing digital marketing campaign performance using M
 
 The dashboard provides a comprehensive overview of marketing performance by analyzing impressions, clicks, advertising costs, leads, digital sources, campaigns, and audience segments.
 
-<img width="1601" height="706" alt="Screenshot 2026-11-10 125044" src="https://github.com/user-attachments/assets/e3b095c9-1f69-4974-bacf-4373d09c9f47" />
+<img width="1537" height="709" alt="marketing_campaign dashboard" src="https://github.com/user-attachments/assets/c7225aa0-90e9-4b1a-a7df-26defe75984c" />
 
 
 ## 🎯 Project Objectives
